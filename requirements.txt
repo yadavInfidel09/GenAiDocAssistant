@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymupdf
+pdfminer.six
+langchain
+openai
+faiss-cpu
+sentence-transformers
+streamlit
+python-multipart
+pydantic
+tqdm
+typing_extensions
